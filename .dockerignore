@@ -1,0 +1,12 @@
+node_modules/
+vendor/
+.git/
+.env
+.env.local
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+storage/logs/*
+*.log
+.DS_Store
+Thumbs.db
